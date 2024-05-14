@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837798912258",
+    "project_id": "work-up-exercise-app-mouqcn",
+    "storage_bucket": "work-up-exercise-app-mouqcn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837798912258:android:7a4da1835532d138b7621b",
+        "android_client_info": {
+          "package_name": "com.workupexerciseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIAa87Vz_5r8AHIT7FyIcw1nmUnwHhJLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
